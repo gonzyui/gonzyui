@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ### Links:
 [EmiRadio](https://www.emiradio.eu/)
 [Minori](https://minoribot.eu/)
-[Support](https://discord.gg/TCk7CRHxjZ)
 [Discord](https://discord.bio/p/gonzyui)
