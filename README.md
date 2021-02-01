@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm 18 from France
 
 
+### GitHub Stats
+
+
 ![I Gonz's Github Stats](https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&layout=compact&show_icons=true&theme=radical)](https://github.com/gonzyui)
