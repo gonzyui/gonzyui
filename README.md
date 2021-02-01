@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by discord Gonz#0001
 - ⚡ Fun fact: I'm 18 from France
 
-[![Gonz's Github stats](https://github-readme-stats.vercel.app/api?username=gonzyui)](https://github.com/gonzyui)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&layout=compact&show_icons=true&theme=radical)](https://github.com/gonzyui)
+![I Gonz's Github Stats](https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&theme=radical)
 
-# Links:
+
+
+### Links:
 [EmiRadio](https://www.emiradio.eu/)
 [Minori](https://minoribot.eu/)
 [Support](https://discord.gg/TCk7CRHxjZ)
