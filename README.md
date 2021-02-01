@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/804391900312371241/805783173165482014/8bb92d11ffe5bf47d7dc1b4beb3075b8.gif" />
+</p>
 
 Here are some ideas to get you started:
 
@@ -9,3 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm 18 from France
 
 [![Gonz's Github stats](https://github-readme-stats.vercel.app/api?username=gonzyui)](https://github.com/gonzyui)
+
+# Links:
+[EmiRadio](https://www.emiradio.eu/)
+[Minori](https://minoribot.eu/)
+[Support](https://discord.gg/TCk7CRHxjZ)
