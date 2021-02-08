@@ -1,12 +1,12 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/804391900312371241/805783173165482014/8bb92d11ffe5bf47d7dc1b4beb3075b8.gif" />
+  <img src="https://cdn.discordapp.com/attachments/804065774636499006/808471283314196536/34db5b596ca3ac6d665d55332c54e92d.gif" />
 </p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Minori](https://minoribot.eu/) and [EmiRadio](http://emiradio.eu/)
-- 👯 I’m looking to collaborate on a radio
+- 🔭 I’m the developer of [Minori](https://minoribot.eu/) and [EmiRadio](http://emiradio.eu/)
+- 👯 I’m looking to collaborate on a station radio for [EmiRadio](http://emiradio.eu/)
 - 💬 Ask me about something if you need help
 - 📫 How to reach me: by discord Gonz#0001
 - ⚡ Fun fact: I'm 18 from France
