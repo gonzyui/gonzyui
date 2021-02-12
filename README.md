@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/804065774636499006/808471283314196536/34db5b596ca3ac6d665d55332c54e92d.gif" />
+  <img src="https://cdn.discordapp.com/attachments/804065774636499006/809865668836589628/25509d1fd6f9c8b7675d45050359e376.gif" />
 </p>
 
 Here are some ideas to get you started:
