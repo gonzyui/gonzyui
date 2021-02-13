@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/804065774636499006/809866915488202752/6874741.GIF" />
 </p>
 
-Here are some ideas to get you started:
+Here are some informations about me:
 
 - 🔭 I’m the developer of [Minori](https://minoribot.eu/) and [EmiRadio](http://emiradio.eu/)
 - 👯 I’m looking to collaborate on a station radio for [EmiRadio](http://emiradio.eu/)
