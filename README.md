@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/804065774636499006/809866915488202752/6874741.GIF" />
+  <img src="https://cdn.discordapp.com/attachments/809003049166831633/811029569120895017/241a54fecbaa171e38c864feb2178977.gif" />
 </p>
 
 Here are some informations about me:
