@@ -7,7 +7,7 @@ Here are some informations about me:
 
 - 🔭 I’m the developer of [Minori](https://minoribot.eu/) and [EmiRadio](http://emiradio.eu/)
 - 👯 I’m looking to collaborate on a station radio for [EmiRadio](http://emiradio.eu/)
-- 💬 Ask me about something if you need help
+- 💬 I'm developing with Java, JavaScript, Html and CSS
 - 📫 How to reach me: by discord Gonz#0001
 - ⚡ Fun fact: I'm 18 from France
 
