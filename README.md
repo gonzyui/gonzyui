@@ -12,12 +12,8 @@ Here are some informations about me:
 
 
 ### GitHub Stats
-<p align="left">
 ![I Gonz's Github Stats](https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&theme=monokai)
-</p>
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&layout=compact&show_icons=true&theme=monokai)](https://github.com/gonzyui)
-</p>
 
 
 ### Links:
