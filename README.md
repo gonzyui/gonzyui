@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" />
 </p>
 
