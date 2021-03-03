@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://i.skyrock.net/4609/89154609/pics/3227054665_1_2_AR69zrxH.gif" />
+  <img src="https://media0.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" />
 </p>
 
 Here are some informations about me:
