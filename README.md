@@ -5,7 +5,7 @@
 
  **Information:**
 
-- 🔭 I’m currently working on  **[Minori](https://top.gg/bot/777183858978324511) and somes minecraft plugins.**
+- 🔭 I’m currently working on  **[Minori](https://minoribot.eu) and somes minecraft plugins.**
 - 📫 Contact me at discord :  **Gonz#0001**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> All**
@@ -33,9 +33,6 @@
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=gonzyui&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&theme=tokyonight&hide=batchfile">
-<a href="https://top.gg/bot/777183858978324511">
-    <img src="https://top.gg/api/widget/777183858978324511.svg" alt="Minori Stats" />
-</a>
 
 
 
