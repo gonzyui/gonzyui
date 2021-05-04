@@ -8,9 +8,8 @@
 
  **Information:**
 
-- 🔭 I’m currently working on  **[Minori](https://minoribot.eu) and somes minecraft plugins.**
+- 🔭 I’m currently working on  **[Minori](https://minoribot.eu) and others java/javascript projects.**
 - 📫 Contact me at discord :  **Gonz#0001**
-- 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> All**
 
 <h3 align="left">Languages and Tools:</h3>
