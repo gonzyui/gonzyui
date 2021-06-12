@@ -19,7 +19,7 @@
 <br>
 - 👨‍🎓 Learning : <code>Kotlin language</code>
 
-<h3 align="center">Languages and tools i use</h3>
+<h3 align="center">Languages and tools i use:</h3>
 <br>
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -61,7 +61,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"></a></p>
 
 
-<h3 align="center">My statistics</h3>
+<h3 align="center">My statistics:</h3>
 <br>
 
 <div align="center">
