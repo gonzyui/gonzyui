@@ -1,26 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gonz</h1>
-<h3 align="center">A passionate French developer</h3>
-<br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonz</h1>
+<h3 align="center">Passionate french developer!</h3>
 
-<p align="center"><a href="https://github.com/gonzyui"><img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat" alt="gonzyui"/></a></p>
-<p align="center"><a href="https://twitter.com/gonzyui" target="blank"><img src="https://img.shields.io/twitter/follow/gonzyui?logo=twitter&style=for-the-badge" alt="gonzyui"/></a></p>
-<hr>
-<p align="center"><a href="https://github.com/gonzyui"><img src="https://github-profile-trophy.vercel.app/?username=gonzyui&theme=nord&column=3" alt="gonzyui"/></a></p>
-<hr>
+## 🙋‍♂️ About Me
 
+- 🔭 I’m currently working on **[Minori](https://minoribot.eu)**
 
-<h3 align="center">Informations about me:</h3>
-<br>
-- 🔭 I’m currently working on  <a href="https://minoribot.eu">Minori</a> and some others projects.
-<br>
-- ⚡ Fun fact : JavaScript >>>> All
-<br>
-- ☑️ How to reach me : Contact me into discord <code>Gonz#0001</code>
-<br>
-- 👨‍🎓 Learning : <code>Kotlin language</code>
+- 📫 How to reach me **Gonz#0001**
 
-<h3 align="center">Languages and tools i use:</h3>
-<br>
+- 🍰 I'm a **French** boy of **19**yo
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> 
@@ -59,18 +50,34 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"></a>
 <a href="https://yarnpkg.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"></a></p>
+</p>
+  
+<br/>
+
+<p align="center">
+    <a href="#">
+        <img alt="Gonz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="#"><img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
 
-<h3 align="center">My statistics:</h3>
-<br>
+<br/>
+<br/>
 
-<div align="center">
-<a href ="https://github.com/gonzyui"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=gonzyui&count_private=true&show_icons=true&theme=blueberry"/></a>
-<a href ="https://github.com/gonzyui"><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&theme=blueberry&hide=batchfile"></a>
-</div>
+<a href="#"><img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=gonzyui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
+<br/>
 
-
-
-
-
+## ❤ My statistics
+<a href="#"> <img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/gonzyui?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/gonzyui" target="blank"><img src="https://img.shields.io/twitter/follow/gonzyui?logo=twitter&style=for-the-badge" alt="gonzyui"/></a>
