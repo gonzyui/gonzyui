@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Minori](https://minoribot.eu)**
+- 🔭 I’m currently working on **Nothing**
 
 - 📫 How to reach me **Gonz#0001**
 
