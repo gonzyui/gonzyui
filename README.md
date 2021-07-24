@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Freyja** a powerful multipurpose discord bot.
 
 - 📫 How to reach me **Gonz#0001**
 
@@ -51,33 +51,35 @@
 <a href="https://yarnpkg.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"></a></p>
 </p>
+<br/>
+
+## 📊 GitHub statistics
   
-<br/>
-
 <p align="center">
-    <a href="#">
-        <img alt="Gonz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+ <a href="#">
+   <img alt="Gonz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ </a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="#"><img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
-
+<br/>
+<a href="#">
+  <img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="#">
+    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<br/>
+<b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
 <br/>
 <br/>
-
-<a href="#"><img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=gonzyui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="#">
+  <img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=gonzyui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 <br/>
 <br/>
 
-## ❤ My statistics
-<a href="#"> <img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
+## ❤ Gonz's statistics
 <a href="#"><img src="https://img.shields.io/github/followers/gonzyui?label=Followers&style=social" alt="GitHub Badge"></a>
+<br>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
+<br>
 <a href="https://twitter.com/gonzyui" target="blank"><img src="https://img.shields.io/twitter/follow/gonzyui?logo=twitter&style=for-the-badge" alt="gonzyui"/></a>
+<br>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-2/280045641604792322.png" alt="discord"/></a>
