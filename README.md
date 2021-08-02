@@ -49,8 +49,9 @@
 <a href="https://www.photoshop.com/en/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"></a>
 <a href="https://yarnpkg.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"></a></p>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"></a>
+<a href="https://golang.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"></a></p>
 <br/>
 
 ## 📊 GitHub statistics
