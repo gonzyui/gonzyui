@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Freyja** a powerful multipurpose discord bot.
+- 🔭 I’m currently working on some fun projects.
 
 - 📫 How to reach me **Gonz#0001**
 
@@ -38,8 +38,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"></a>
 <a href="https://ubuntu.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"</a>
-<a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"></a>
 <a href="https://www.mysql.com/fr/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a>
 <a href="https://nodejs.org/en/" target="_blank">
