@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on some fun projects.
+- 🔭 I’m currently working on **private** and **open source** projects.
 
 - 📫 How to reach me **Gonz#0001**
 
