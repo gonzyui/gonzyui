@@ -75,7 +75,7 @@
 <br/>
 <br/>
 
-## ❤ Gonz's statistics
+## ❤ Other
 <a href="#"><img src="https://img.shields.io/github/followers/gonzyui?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
