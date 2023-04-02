@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Gonz#0036**
 
-- 🍰 I'm a **French** boy of **20**yo
+- 🍰 I'm a **French** boy of **21**yo
 
 ## 🚀 Languages and Tools:
 
@@ -55,14 +55,12 @@
 
 <br/>
 <br/>
-<a href="#">
-  <img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=gonzyui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 <br/>
 <br/>
-
+  
 ## ❤ Other
+  
 <a href="#"><img src="https://img.shields.io/github/followers/gonzyui?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
 <br>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-2/280045641604792322.png" alt="discord"/></a>
