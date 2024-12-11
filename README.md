@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm gonzyui</h1>
 <h3 align="center">Passionate french developer!</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **private** and **open source** projects.
 
-- 📫 How to reach me **Gonz#0036**
+- 📫 How to reach me **gonzyui_** (on discord)
 
-- 🍰 I'm a **French** boy of **21**yo
+- 🍰 I'm a **French** boy of **22**yo
 
 ## 🚀 Languages and Tools:
 
@@ -59,8 +59,4 @@
 <br/>
   
 ## ❤ Other
-  
-<a href="#"><img src="https://img.shields.io/github/followers/gonzyui?label=Followers&style=social" alt="GitHub Badge"></a>
-<br>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=gonzyui&label=Profile%20views&color=0e75b6&style=flat"></a>
-<br>
+**Soon...**
