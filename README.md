@@ -59,4 +59,4 @@
 <br/>
   
 ## ❤ Other
-**Soon...**
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@gonzyui/e0420ac3-b841-4a4f-94cc-3c10ffb153f1.png" /></a>
