@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm <a href="https://gonzyuidev.xyz">gonzyui</a></h1>
 <h3 align="center">French Developer | Passionate about creating and learning</h3>
+<h3 align="center"><a href="https://ko-fi.com/gonzyui">Buy me a coffee</a></h3>
 
 ---
 
