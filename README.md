@@ -34,19 +34,6 @@ I'm a passionate developer who thrives on building innovative open-source and pe
 
 ---
 
-### 💻 Projects
-
-#### [Anime8-AI](https://github.com/gonzyui/Anime8-AI)
-Anim8: AI-powered anime recs using Anilist data & user feedback.
-
-#### [Actunime-RPC](https://github.com/Actunime/Actunime-RPC)
-Actunime RPC est une application Electron qui permet de personnaliser votre statut Discord grâce à une interface simple et intuitive. Elle intègre également une fonctionnalité de détection de live sur Twitch pour mettre à jours automatiquement votre statut lors de vos diffusions.
-
-#### [Portfolio](https://github.com/gonzyui/portfolio)
-Portfolio made using React and Vite. Powered by Vercel.
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzyui&theme=radical" alt="Profile Details" />
