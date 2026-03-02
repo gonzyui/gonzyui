@@ -17,7 +17,7 @@
 Package that allows you to use Anilist API easily.
 
 > [ani-client-web](https://github.com/gonzyui/ani-client-web)
-Website template using @gonzyui/ani-client package.
+Website template using [ani-client](https://github.com/gonzyui/ani-client) package.
 
 > [SyncChats](https://github.com/gonzyui/SyncChats)
 Minecraft plugin that allows you to chat across discord servers from minecraft. 
