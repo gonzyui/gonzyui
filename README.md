@@ -16,5 +16,8 @@
 > [ani-client](https://github.com/gonzyui/ani-client)
 Package that allows you to use Anilist API easily.
 
+> [pi-monitor](https://github.com/gonzyui/pi-monitor)
+ A lightweight Raspberry Pi monitoring dashboard with a Go backend and Vue 3 frontend.
+
 > [SyncChats](https://github.com/gonzyui/SyncChats)
 Minecraft plugin that allows you to chat across discord servers from minecraft. 
