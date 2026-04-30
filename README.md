@@ -20,4 +20,7 @@ Package that allows you to use Anilist API easily.
  A lightweight Raspberry Pi monitoring dashboard with a Go backend and Vue 3 frontend.
 
 > [SyncChats](https://github.com/gonzyui/SyncChats)
-Minecraft plugin that allows you to chat across discord servers from minecraft. 
+Minecraft plugin that allows you to chat across discord servers from minecraft.
+
+> [Sentio] (soon)
+> Sentio imagines a new generation of outdoor applications: more editorial, more community, more cartographic, and designed as a real system for reading the terrain.
