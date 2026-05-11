@@ -55,9 +55,6 @@
 > A TypeScript package that makes working with the AniList API simple and ergonomic.  
 > <img src="https://img.shields.io/npm/v/ani-client?style=flat-square&label=npm" alt="ani-client npm version" />
 
-> **[pi-monitor](https://github.com/gonzyui/pi-monitor)**  
-> A lightweight Raspberry Pi monitoring dashboard with a Go backend and a Vue 3 frontend.
-
 > **[SyncChats](https://github.com/gonzyui/SyncChats)**  
 > A Minecraft plugin that syncs chat across Discord servers and Minecraft.
 
